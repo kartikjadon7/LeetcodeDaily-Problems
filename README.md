@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0051-n-queens) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
