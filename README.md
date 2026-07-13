@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0002-add-two-numbers) |
+| [0707-design-linked-list](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
