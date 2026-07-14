@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
