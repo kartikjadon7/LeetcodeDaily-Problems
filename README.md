@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -103,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
