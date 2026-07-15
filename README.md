@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
