@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
