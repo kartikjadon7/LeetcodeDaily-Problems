@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0876-middle-of-the-linked-list) |
