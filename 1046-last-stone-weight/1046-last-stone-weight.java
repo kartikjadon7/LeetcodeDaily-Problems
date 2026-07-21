@@ -21,5 +21,6 @@ class Solution {
         } else {
             return pq.remove();
         }
+        
     }
 }
