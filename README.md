@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0093-restore-ip-addresses) |
 | [0344-reverse-string](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0520-detect-capital) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0414-third-maximum-number) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -237,12 +242,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
