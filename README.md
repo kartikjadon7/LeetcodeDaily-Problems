@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0073-set-matrix-zeroes) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
