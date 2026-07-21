@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0093-restore-ip-addresses](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0093-restore-ip-addresses) |
 | [0344-reverse-string](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
 | ------- |
