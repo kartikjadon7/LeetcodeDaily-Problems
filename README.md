@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0239-sliding-window-maximum) |
 | [0414-third-maximum-number](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0414-third-maximum-number) |
+| [0503-next-greater-element-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0503-next-greater-element-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
