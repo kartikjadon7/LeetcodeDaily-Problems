@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
