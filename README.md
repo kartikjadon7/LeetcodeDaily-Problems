@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Geometry
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0210-course-schedule-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0210-course-schedule-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/kartikjadon7/LeetcodeDaily-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
